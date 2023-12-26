@@ -599,7 +599,7 @@ class Ui_Calculator(object):
             ans=eval(text)
             self.label.setText(str(ans))
         except:
-            self.label.setText("wrong Input")
+            self.label.setText("Invalid Input")
 
 if __name__ == "__main__":
     import sys
