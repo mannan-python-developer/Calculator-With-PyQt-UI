@@ -20,7 +20,7 @@ This Python script creates a simple calculator graphical user interface (GUI) us
 **Clone the Repository:**
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/mannan258/Calculator-With-PyQt-UI.git
+   git clone https://github.com/mannan-python-developer/Calculator-With-PyQt-UI.git
 ```
 
 ## How to Run
